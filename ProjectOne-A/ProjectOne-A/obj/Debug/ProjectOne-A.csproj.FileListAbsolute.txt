@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\ProjectOne-A\ProjectOne-A\bin\Debug\ProjectOne-A.exe.config
-C:\Users\User\source\repos\ProjectOne-A\ProjectOne-A\bin\Debug\ProjectOne-A.exe
-C:\Users\User\source\repos\ProjectOne-A\ProjectOne-A\bin\Debug\ProjectOne-A.pdb
-C:\Users\User\source\repos\ProjectOne-A\ProjectOne-A\obj\Debug\ProjectOne-A.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\ProjectOne-A\ProjectOne-A\obj\Debug\ProjectOne-A.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\ProjectOne-A\ProjectOne-A\obj\Debug\ProjectOne-A.exe
-C:\Users\User\source\repos\ProjectOne-A\ProjectOne-A\obj\Debug\ProjectOne-A.pdb
